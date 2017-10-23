@@ -43,11 +43,11 @@
       }
     }
   },
-  "viewissues": {
+  "viewissue": {
     "type": "object",
     "comment": "",
     "properties": {
-      "issueslist": {
+      "list": {
         "type": "array",
         "items": {
           "type": "object",
