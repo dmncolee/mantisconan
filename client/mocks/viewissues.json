@@ -1,6 +1,7 @@
 {
   "issueslist": {
     "id": "00001",
-    "status": "active"
+    "status": "active",
+    "summary": "viewissueslist summary"
   }
 }
