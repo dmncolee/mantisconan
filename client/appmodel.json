@@ -54,16 +54,10 @@
             "type": "string"
           },
           "status": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            }
+            "type": "string"
           },
           "summary": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            }
+            "type": "string"
           }
         }
       }
