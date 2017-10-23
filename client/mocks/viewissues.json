@@ -1,5 +1,7 @@
 {
   "issueslist": {
-    "id": "00001"
+    "id": "00001",
+    "status": "active",
+    "summary": "test summary"
   }
 }
