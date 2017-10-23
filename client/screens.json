@@ -28,6 +28,13 @@
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissue"
+    },
+    {
+      "id": "tableviewadvaced",
+      "name": "Tableview -Advaced",
+      "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
+      "sourceAppId": "universaltemplates",
+      "model": "tableviewadvaced"
     }
   ],
   "sourceAppId": "_blank",

@@ -42,5 +42,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.tableviewadvaced', {
+        views: {
+            app: {
+                controller: 'app_tableviewadvaced',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.tableviewadvaced');
+                }
+            }
+        }
     });
 });
