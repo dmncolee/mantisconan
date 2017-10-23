@@ -60,10 +60,7 @@
             }
           },
           "summary": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            }
+            "type": "string"
           }
         }
       }
