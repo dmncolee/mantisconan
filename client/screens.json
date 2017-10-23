@@ -23,8 +23,8 @@
       "model": "loginconfident"
     },
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "viewissues",
+      "name": "Viewissues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "viewissue"
