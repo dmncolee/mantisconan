@@ -14,7 +14,7 @@
             },
             "selector": "td",
             "control": "property.innerText",
-            "selectIndex": 9
+            "selectIndex": 3
           },
           "summary": {
             "type": "string",
@@ -44,7 +44,10 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 9
           }
         }
       },
