@@ -27,7 +27,7 @@
       "name": "Viewissues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "viewissue"
+      "model": "myView"
     },
     {
       "id": "tableviewadvaced",
