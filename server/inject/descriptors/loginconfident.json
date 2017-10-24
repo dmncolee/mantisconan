@@ -11,7 +11,8 @@
           "submit"
         ]
       },
-      "control": "text"
+      "control": "text",
+      "selector": "[name=\"password\"]"
     },
     "password": {
       "type": "string",
