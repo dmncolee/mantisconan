@@ -12,7 +12,7 @@
         ]
       },
       "control": "text",
-      "selector": "[name=\"password\"]"
+      "selector": "[name=\"username\"]"
     },
     "password": {
       "type": "string",
@@ -43,7 +43,7 @@
         }
       },
       "selector": ".button",
-      "control": "text"
+      "control": "action.button"
     }
   },
   "connect": []
