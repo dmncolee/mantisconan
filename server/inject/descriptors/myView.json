@@ -14,14 +14,5 @@
       "selectContains": "View Issues"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "isMyview"
-      ],
-      "screens": [
-        "viewissues"
-      ]
-    }
-  ]
+  "connect": []
 }
