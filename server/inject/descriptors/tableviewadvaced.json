@@ -54,6 +54,11 @@
       "update": {
         "type": "none"
       }
+    },
+    "isViewIssues": {
+      "type": "identifier",
+      "selector": ".floatleft",
+      "control": "exists"
     }
   },
   "connect": []
