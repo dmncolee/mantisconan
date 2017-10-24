@@ -4,8 +4,7 @@
     "isMyview": {
       "type": "identifier",
       "control": "exists",
-      "selectContains": "Assigned to me",
-      "selector": "[name=\"html\"]"
+      "selectContains": "Assigned to me"
     },
     "viewissueslink": {
       "type": "action",
