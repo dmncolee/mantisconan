@@ -9,7 +9,6 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "body",
       "control": "property.innerText"
     }
   },
