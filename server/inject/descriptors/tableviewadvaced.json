@@ -65,14 +65,5 @@
       "control": "exists"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "isViewIssues"
-      ],
-      "screens": [
-        "tableviewadvaced"
-      ]
-    }
-  ]
+  "connect": []
 }
