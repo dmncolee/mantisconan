@@ -3,7 +3,6 @@
   "properties": {
     "isMyview": {
       "type": "identifier",
-      "selector": ".sublte[href='view_all']",
       "control": "exists",
       "selectContains": "Assigned to me"
     },
