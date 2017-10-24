@@ -20,25 +20,28 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selectIndex": 10,
+            "selector": "td",
+            "control": "property.innerText"
           },
           "status": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 8,
+            "control": "property.innerText"
           },
           "severity": {
             "type": "string",
             "update": {
               "type": "none"
-            }
-          },
-          "assignedto": {
-            "type": "string",
-            "update": {
-              "type": "none"
-            }
+            },
+            "selector": "td",
+            "control": "property.innerText",
+            "selectIndex": 7
           },
           "updated": {
             "type": "string",
