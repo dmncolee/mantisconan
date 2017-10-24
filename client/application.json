@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "3b6971fd",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "dmncolee"
+  "creatorId": "dmncolee",
+  "id": "mantisconan",
+  "previewImageURL": "/previews/3b6971fd-mantisconan/.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/dmncolee/mantisconan",
+  "creatorName": "Conan Lee",
+  "sdks": []
 }
