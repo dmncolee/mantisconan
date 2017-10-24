@@ -4,13 +4,13 @@
     "isMyview": {
       "type": "identifier",
       "selector": ".sublte[href='view_all']",
-      "control": "exists"
+      "control": "exists",
+      "selectContains": "Assigned to me"
     },
     "viewissueslink": {
       "type": "action",
       "selector": "body",
-      "control": "property.innerText",
-      "selectContains": "Assigned to me"
+      "control": "property.innerText"
     }
   },
   "connect": []
