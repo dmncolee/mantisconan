@@ -63,6 +63,11 @@
       "type": "identifier",
       "selector": ".floatleft",
       "control": "exists"
+    },
+    "reportissuelink": {
+      "type": "action",
+      "selector": "body",
+      "control": "property.innerText"
     }
   },
   "connect": [
@@ -73,6 +78,10 @@
       "screens": [
         "tableviewadvaced"
       ]
+    },
+    {
+      "match": [],
+      "action": "reportissuelink"
     }
   ]
 }
