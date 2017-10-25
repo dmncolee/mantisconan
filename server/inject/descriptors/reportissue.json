@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "comment": "",
+  "properties": {
+    "Category": {
+      "type": "select"
+    },
+    "Summary": {
+      "type": "string"
+    }
+  },
+  "connect": []
+}
