@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "mantisconan",
-  "startScreen": "app.loginconfident",
+  "startScreen": "app.reportissue",
   "screens": [
     {
       "id": "menu",
