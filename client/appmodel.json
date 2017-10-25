@@ -139,5 +139,17 @@
         "selectContains": "View Issues"
       }
     }
+  },
+  "reportissue": {
+    "type": "object",
+    "comment": "",
+    "properties": {
+      "Category": {
+        "type": "select"
+      },
+      "Summary": {
+        "type": "string"
+      }
+    }
   }
 }
